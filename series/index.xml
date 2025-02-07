@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Blowfish</title>
+    <title>Series on Jason Ho</title>
     <link>https://jsonh.me/series/</link>
-    <description>Recent content in Series on Blowfish</description>
+    <description>Recent content in Series on Jason Ho</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
+    <managingEditor>work@jsonh.me (Jason Ho)</managingEditor>
+    <webMaster>work@jsonh.me (Jason Ho)</webMaster>
+    <copyright>© 2025 Jason Ho</copyright>
     <atom:link href="https://jsonh.me/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
